@@ -4,7 +4,11 @@ csdojo python basic
 https://www.youtube.com/c/CSDojo/playlists
 https://www.pluralsight.com/pricing/free-trial
 
+practise solution:
+https://codingbat.com/python
 
+
+#others
 Coursera courses to complete:
 https://www.pluralsight.com/pricing/free-trial
 
@@ -19,3 +23,5 @@ https://www.coursera.org/professional-certificates/google-it-automation#courses
 
 
 Crash Course on Python:
+
+
